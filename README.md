@@ -1,14 +1,12 @@
-<h3>👋 About Me</h3>
+## 👋 About Me:
 
-Hi! My name is Ilya, I'm a young developer from Russia.
-
-Currently working on a project called **Akcel**.
-
-My main stack is **Python**, **Golang**, **SQL** (MariaDB / PostgreSQL), **Docker**, **Nginx/Angie**.
+Hello, I'm **fixonteck** – young developer from Russia.
+Currently working on **Akcel**.
+Main stack – **Python**, **Golang**, **SQL** (MariaDB / PostgreSQL), **Docker**, **Nginx/Angie**.
 
 ---
 
-<h3>🛠️ Tech Stack</h3>
+## 🛠️ Tech Stack:
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -21,7 +19,7 @@ My main stack is **Python**, **Golang**, **SQL** (MariaDB / PostgreSQL), **Docke
 
 ---
 
-<h3>📬 Socials</h3>
+## 📬 Socials:
 
 <p>
   <a href="https://t.me/fixonteck" target="_blank">
