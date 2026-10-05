@@ -1,6 +1,10 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi!+Welcome+to+my+profile;Enthusiast;Hobbyist;Always+Learning;All+of+this+is+about+me!" alt="Typing SVG" />
-</p>
+<h3>👋 About Me</h3>
+
+Hi! My name is Ilya, I'm a young developer from Russia.
+
+Currently working on a project called **Akcel**.
+
+My main stack is **Python**, **Golang**, **SQL** (MariaDB / PostgreSQL), **Docker**, **Nginx/Angie**.
 
 ---
 
