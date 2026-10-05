@@ -1,14 +1,10 @@
 ## 👋 About Me:
 
----
-
 Hello, I'm **fixonteck** – young developer from Russia.
 Currently working on **Akcel**.
 Main stack – **Python**, **Golang**, **SQL** (MariaDB / PostgreSQL), **Docker**, **Nginx/Angie**.
 
 ## 🛠️ Tech Stack:
-
----
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -20,8 +16,6 @@ Main stack – **Python**, **Golang**, **SQL** (MariaDB / PostgreSQL), **Docker*
 </p>
 
 ## 📬 Socials:
-
----
 
 <p>
   <a href="https://t.me/fixonteck" target="_blank">
