@@ -1,12 +1,8 @@
-<h1 align="center">Hi there 👋</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi!+Welcome+to+my+profile;Enthusiast;Hobbyist;Always+Learning;All+of+this+is+about+me!" alt="Typing SVG" />
 </p>
 
----
-
-## 🛠️ My Skills
+<h3 align="center">🛠️ My Skills</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
