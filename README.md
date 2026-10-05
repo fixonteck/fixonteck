@@ -4,7 +4,11 @@ Hello, I'm **fixonteck** – young developer from Russia.
 Currently working on **Akcel**.
 Main stack – **Python**, **Golang**, **SQL** (MariaDB / PostgreSQL), **Docker**, **Nginx/Angie**.
 
+<br>
+
 ---
+
+<br>
 
 ## 🛠️ Tech Stack:
 
@@ -17,7 +21,11 @@ Main stack – **Python**, **Golang**, **SQL** (MariaDB / PostgreSQL), **Docker*
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </p>
 
+<br>
+
 ---
+
+<br>
 
 ## 📬 Socials:
 
